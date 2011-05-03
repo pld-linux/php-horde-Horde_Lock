@@ -9,7 +9,7 @@ License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
 # Source0-md5:	e1574bce00da6350ea7ebfa911c2dbea
-URL:		http://pear.horde.org/package/Horde_Lock/
+URL:		https://github.com/horde/horde/tree/master/framework/Lock/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
 BuildRequires:	php-pear-PEAR >= 1:1.7.0
