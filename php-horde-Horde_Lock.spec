@@ -3,12 +3,12 @@
 %include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Resource Locking System
 Name:		php-horde-Horde_Lock
-Version:	1.0.0
+Version:	1.0.1
 Release:	1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://pear.horde.org/get/%{pearname}-%{version}.tgz
-# Source0-md5:	e1574bce00da6350ea7ebfa911c2dbea
+# Source0-md5:	4d046de7b5014004b769cbedbeca063e
 URL:		https://github.com/horde/horde/tree/master/framework/Lock/
 BuildRequires:	php-channel(pear.horde.org)
 BuildRequires:	php-packagexml2cl
