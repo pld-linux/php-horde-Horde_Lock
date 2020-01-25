@@ -1,6 +1,5 @@
 %define		status		stable
 %define		pearname	Horde_Lock
-%include	/usr/lib/rpm/macros.php
 Summary:	%{pearname} - Horde Resource Locking System
 Name:		php-horde-Horde_Lock
 Version:	1.0.1
